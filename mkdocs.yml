@@ -1,0 +1,58 @@
+site_name: Serra Idroponica Automatizzata
+
+nav:
+  - Home: index.md
+  - Introduzione:
+    - Cos'è la serra: intro/serra.md
+    - Cos'è l'idroponica: intro/hydroponic.md
+    - Vantaggi dell'idroponica: intro/benefits.md
+    - Tipi di sistemi idroponici: intro/systems.md
+    - FAQ sull'idroponica: intro/faq.md
+  - Costruzione:
+    - Panoramica del progetto: build/overview.md
+    - Meccanica:
+      - Componenti: build/mechanical/components.md
+      - Struttura della serra: build/mechanical/structure.md
+    - Impianto idraulico:
+      - Componenti impianto idraulico: build/plumbing/components.md
+      - Schema impianto idraulico: build/plumbing/layout.md
+      - Assemblaggio impianto idraulico: build/plumbing/assembly.md
+    - Impianto elettrico:
+      - Componenti impianto elettrico: build/electrical/components.md
+      - Schema elettrico: build/electrical/wiring.md
+      - Cablaggio impianto elettrico: build/electrical/assembly.md
+  - Software:
+    - Panoramica del software: software/overview.md
+    - Installazione e configurazione: software/setup.md
+    - Utilizzo del software: software/usage.md
+  - Coltivazione:
+    - Nutrienti e soluzioni: cultivation/nutrients.md
+    - Piante adatte all'idroponica: cultivation/plants.md
+    - Parametri ambientali: cultivation/environment.md
+    - Risoluzione dei problemi: cultivation/troubleshooting.md
+  - Contribuisci: contribute.md
+  - Licenza: license.md
+
+theme:
+  name: material
+  palette:
+    # Colori principali
+    primary: 'green'   # Verde (Primario)
+    accent:  'orange'   # Blu (Secondario)
+
+  icon:
+    logo: material/sprout 
+
+  # Font
+  font:
+    text: Roboto
+    code: monospace # Font predefinito per il codice va bene di solito
+
+  # Funzionalità aggiuntive (alcune sono abilitate di default)
+  features:
+    - search # Abilita la ricerca
+    - content.code.copy # Aggiunge un pulsante per copiare il codice
+
+
+extra_css:
+  - css/cards.css
