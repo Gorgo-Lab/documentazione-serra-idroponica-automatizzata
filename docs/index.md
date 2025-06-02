@@ -1,8 +1,8 @@
-# Serra Idroponica Automatizzata
+# Gorgoglìo
 
 Ciao!
 
-Siamo felici di accoglierti nel cuore del progetto "Serra Idroponica Automatizzata", un'iniziativa nata dall'incontro tra il [Gorgo Lab](https://gorgolab.it/), makerspace di Gorgonzola (MI), e [Hack Your Farm](https://www.youtube.com/@HackYourFarm), canale di divulgazione dedicato alla coltivazione sostenibile e all'uso creativo della tecnologia in agricoltura.
+Siamo felici di accoglierti nel cuore del progetto "Gorgoglìo", un'iniziativa nata dall'incontro tra il [Gorgo Lab](https://gorgolab.it/), makerspace di Gorgonzola (MI), e [Hack Your Farm](https://www.youtube.com/@HackYourFarm), canale di divulgazione dedicato alla coltivazione sostenibile e all'uso creativo della tecnologia in agricoltura.
 Questo progetto è dedicato alla progettazione, creazione e condivisione di un sistema idroponico automatizzata completamente open source.
 
 Qui troverai tutte le informazioni e le guide necessarie per apprendere i principi fondamentali della coltivazione idroponica, realizzare il nostro sistema automatizzato e comprenderne nel dettaglio il funzionamento. Grazie ai modelli, agli schemi e alla documentazione fornita, potrai anche adattare il sistema alle tue esigenze specifiche. Speriamo che vorrai presto entrare a far parte del progetto, contribuendo con le tue modifiche e migliorie!
@@ -39,7 +39,7 @@ Qui troverai tutte le informazioni e le guide necessarie per apprendere i princi
 
 
 ## I Nostri Obiettivi
-"Serra Idroponica Automatizzata" persegue obiettivi ambiziosi con un forte impatto sociale e ambientale:
+Il progetto "Gorgoglìo" persegue obiettivi ambiziosi con un forte impatto sociale e ambientale:
 
 * **Diffondere la Conoscenza**: Promuovere l'adozione e la comprensione delle tecniche di coltivazione idroponica e dell'agricoltura sostenibile in ambito urbano.
 *** Coinvolgere la Comunità**: Creare opportunità di incontro, collaborazione e socializzazione attraverso laboratori partecipativi e attività educative. Vogliamo costruire una comunità attiva e competente.
