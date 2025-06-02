@@ -2,9 +2,10 @@
 
 Ciao!
 
-Siamo felici di accoglierti nel cuore del progetto "Serra Idroponica Automatizzata", un'iniziativa nata e cresciuta nel makerspace Gorgo Lab di Gorgonzola. Questo progetto è dedicato alla creazione e alla condivisione aperta di una serra idroponica automatizzata completamente open source.
+Siamo felici di accoglierti nel cuore del progetto "Serra Idroponica Automatizzata", un'iniziativa nata dall'incontro tra il [Gorgo Lab](https://gorgolab.it/), makerspace di Gorgonzola (MI), e [Hack Your Farm](https://www.youtube.com/@HackYourFarm), canale di divulgazione dedicato alla coltivazione sostenibile e all'uso creativo della tecnologia in agricoltura.
+Questo progetto è dedicato alla progettazione, creazione e condivisione di un sistema idroponico automatizzata completamente open source.
 
-Qui troverai tutte le informazioni e le guide per costruire la tua serra personalizzata e capirne il funzionamento. Speriamo che presto vorrai anche tu far parte del progetto proponendo le tue modifiche e migliorie!
+Qui troverai tutte le informazioni e le guide necessarie per apprendere i principi fondamentali della coltivazione idroponica, realizzare il nostro sistema automatizzato e comprenderne nel dettaglio il funzionamento. Grazie ai modelli, agli schemi e alla documentazione fornita, potrai anche adattare il sistema alle tue esigenze specifiche. Speriamo che vorrai presto entrare a far parte del progetto, contribuendo con le tue modifiche e migliorie!
 
 ## Caratteristiche del Progetto
 
