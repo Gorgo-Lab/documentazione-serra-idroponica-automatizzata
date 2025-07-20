@@ -18,5 +18,6 @@ Pipfile.lock
 *.elf
 *.map
 
-
-site/
+/public/
+/site/public/
+.hugo_build.lock

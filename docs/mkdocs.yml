@@ -1,5 +1,7 @@
 site_name: Gorgoglio
 
+docs_dir: content
+
 nav:
   - Home: index.md
   - Introduzione:

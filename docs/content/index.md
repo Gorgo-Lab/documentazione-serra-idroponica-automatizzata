@@ -65,8 +65,6 @@ Sei caldamente incoraggiato a metterti in gioco, sia che tu sia un esperto o all
 Esplora i nostri canali di comunicazione su GitHub (Issue per problemi/idee, Pull Request per proposte di modifica).
 Cerca i canali della community del Gorgo Lab per discussioni più informali e supporto.
 
-**Partecipa ai nostri incontri periodici ([LINK PROSSIME DATE])**.
-
 
 
 Unisciti a noi nel coltivare il futuro, una foglia alla volta! 🌱🤝

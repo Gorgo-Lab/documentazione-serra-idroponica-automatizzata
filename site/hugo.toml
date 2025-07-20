@@ -1,0 +1,3 @@
+baseURL = 'http://localhost:8000/'
+languageCode = 'en-us'
+title = 'Progetto Gorgoglìo - idroponica opensource'
