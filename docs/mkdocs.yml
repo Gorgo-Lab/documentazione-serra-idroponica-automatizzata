@@ -5,35 +5,49 @@ docs_dir: content
 nav:
   - Home: index.md
   - Introduzione:
-    - Cos'è la serra: intro/serra.md
+    - Cos'è Gorgoglìo: intro/gorgoglio.md
     - Cos'è l'idroponica: intro/hydroponic.md
-    - Vantaggi dell'idroponica: intro/benefits.md
-    - Tipi di sistemi idroponici: intro/systems.md
+    # - Tipi di sistemi idroponici: intro/systems.md
     - FAQ sull'idroponica: intro/faq.md
-  - Costruzione:
-    - Panoramica del progetto: build/overview.md
-    - Meccanica:
-      - Componenti: build/mechanical/components.md
-      - Struttura della serra: build/mechanical/structure.md
-    - Impianto idraulico:
-      - Componenti impianto idraulico: build/plumbing/components.md
-      - Schema impianto idraulico: build/plumbing/layout.md
-      - Assemblaggio impianto idraulico: build/plumbing/assembly.md
-    - Impianto elettrico:
-      - Componenti impianto elettrico: build/electrical/components.md
-      - Schema elettrico: build/electrical/wiring.md
-      - Cablaggio impianto elettrico: build/electrical/assembly.md
-  - Software:
-    - Panoramica del software: software/overview.md
-    - Installazione e configurazione: software/setup.md
-    - Utilizzo del software: software/usage.md
-  - Coltivazione:
-    - Nutrienti e soluzioni: cultivation/nutrients.md
-    - Piante adatte all'idroponica: cultivation/plants.md
-    - Parametri ambientali: cultivation/environment.md
-    - Risoluzione dei problemi: cultivation/troubleshooting.md
+  - Soluzioni:
+    - Panoramica delle soluzioni: solutions/overview.md
+    - Orto in cassetta:
+      - Panoramica: solutions/kratky/overview.md
+      - Componenti: solutions/kratky/components.md
+      - Costruzione: solutions/kratky/build.md
+      - Coltivazione:
+        - Nutrienti e soluzioni: solutions/kratky/cultivation/nutrients.md
+        - Piante adatte all'idroponica: solutions/kratky/cultivation/plants.md
+        - Parametri ambientali: solutions/kratky/cultivation/environment.md
+        - Risoluzione dei problemi: solutions/kratky/cultivation/troubleshooting.md
+    # - Smart Kratky:
+    #   - Panoramica: solutions/smartkratky/overview.md
+    # - NFT:
+    #   - Panoramica: solutions/nft/overview.md
+    #   - Costruzione:
+    #     - Meccanica:
+    #       - Componenti: solutions/nft/mechanical/components.md
+    #       - Struttura della serra: solutions/nft/mechanical/structure.md
+    #     - Impianto idraulico:
+    #       - Componenti impianto idraulico: solutions/nft/plumbing/components.md
+    #       - Schema impianto idraulico: solutions/nft/plumbing/layout.md
+    #       - Assemblaggio impianto idraulico: solutions/nft/plumbing/assembly.md
+    #     - Impianto elettrico:
+    #       - Componenti impianto elettrico: solutions/nft/electrical/components.md
+    #       - Schema elettrico: solutions/nft/electrical/wiring.md
+    #       - Cablaggio impianto elettrico: solutions/nft/electrical/assembly.md
+    #     - Software:
+    #       - Panoramica del software: solutions/nft/overview.md
+    #       - Installazione e configurazione: solutions/nft/setup.md
+    #       - Utilizzo del software: solutions/nft/usage.md
+    #   - Coltivazione:
+    #     - Nutrienti e soluzioni: solutions/nft/cultivation/nutrients.md
+    #     - Piante adatte all'idroponica: solutions/nft/cultivation/plants.md
+    #     - Parametri ambientali: solutions/nft/cultivation/environment.md
+    #     - Risoluzione dei problemi: solutions/nft/cultivation/troubleshooting.md
   - Contribuisci: contribute.md
   - Licenza: license.md
+
 
 theme:
   name: material
@@ -57,4 +71,9 @@ theme:
 
 
 extra_css:
-  - css/cards.css
+  - assets/css/cards.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
