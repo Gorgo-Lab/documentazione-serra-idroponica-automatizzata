@@ -21,8 +21,8 @@ Man mano che la pianta assorbe l'acqua e i nutrienti, il livello della soluzione
 
 ## Cosa Serve per Realizzare il Tuo Orto in Cassetta
 
-Per iniziare con il metodo Kratky, ti serviranno alcuni materiali di base: un contenitore opaco per ospitare la soluzione nutritiva, un coperchio leggero e facile da lavorare, piccoli vasi forati per le piante, un mezzo di coltura come argilla espansa o spugna, una soluzione di nutrienti idroponici, acqua e le piantine che preferisci coltivare. Abbiamo già selezionato per te tutti questi elementi in modo che siano economici, funzionali e che reperibili in casa o in negozi alla portata di tutti.
-Trovi la lista dettagliata dei materiali necessari nella [pagina dedicata ai componenti.](/solutions/kratky/components/)
+Per iniziare con l'orto in cassetta ti serviranno alcuni materiali di base: un contenitore opaco per ospitare la soluzione nutritiva, un coperchio leggero e facile da lavorare, piccoli vasi forati per le piante, un mezzo di coltura come argilla espansa o spugna, una soluzione di nutrienti idroponici, acqua e le piantine che preferisci coltivare. Abbiamo già selezionato per te tutti questi elementi in modo che siano economici, funzionali e che reperibili in casa o in negozi alla portata di tutti.
+Trovi la lista dettagliata dei materiali necessari nella [pagina dedicata ai componenti.](/solutions/orto_in_cassetta/components/)
 
 ## I Vantaggi del Tuo Orto in Cassetta
 

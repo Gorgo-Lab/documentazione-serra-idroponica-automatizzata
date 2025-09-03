@@ -12,14 +12,10 @@ nav:
   - Soluzioni:
     - Panoramica delle soluzioni: solutions/overview.md
     - Orto in cassetta:
-      - Panoramica: solutions/kratky/overview.md
-      - Componenti: solutions/kratky/components.md
-      - Costruzione: solutions/kratky/build.md
-      - Coltivazione:
-        - Nutrienti e soluzioni: solutions/kratky/cultivation/nutrients.md
-        - Piante adatte all'idroponica: solutions/kratky/cultivation/plants.md
-        - Parametri ambientali: solutions/kratky/cultivation/environment.md
-        - Risoluzione dei problemi: solutions/kratky/cultivation/troubleshooting.md
+      - Panoramica: solutions/orto_in_cassetta/overview.md
+      - Componenti: solutions/orto_in_cassetta/components.md
+      - Costruzione: solutions/orto_in_cassetta/build.md
+      - Coltivazione: solutions/orto_in_cassetta/cultivation.md
     # - Smart Kratky:
     #   - Panoramica: solutions/smartkratky/overview.md
     # - NFT:

@@ -6,7 +6,7 @@ Queste Soluzioni di Coltivazione Idroponica Open Source sono proposte collaudate
 
 ## Le Soluzioni di Coltivazione Idroponica Open Source del Progetto Gorgoglio
 
-### 1. Soluzione "Kratky" (Orto in Cassetta)
+### 1. Soluzione "Orto in Cassetta" (Kratky)
 
 **Cos'è:** Questa è la porta d'accesso più semplice per chi si avvicina per la prima volta alla coltivazione fuori suolo. Si tratta di un sistema idroponico passivo, che non richiede elettricità, pompe o attrezzature costose. Le piante vengono poste in vasetti sopra un contenitore riempito di soluzione nutritiva.
 

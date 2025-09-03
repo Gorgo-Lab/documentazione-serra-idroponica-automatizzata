@@ -82,7 +82,7 @@ La quantità di nutriente può variare a seconda della marca. Nel caso di "Micro
 | Bloom     | 7,2 ml/l            | 28,8 ml/l           |
 | **TOTALE**| **43,2 ml/l**       | **172,8 ml/l**      |
 
-La quantità necesaria è quindi come vedi molto bassa. Nonostante questo troverai probabilmente in commercio i nutrienti venduti in bottiglie da 1 litro.
+La quantità necessaria è quindi come vedi molto bassa. Nonostante questo, troverai probabilmente in commercio i nutrienti venduti in bottiglie da 1 litro.
 
 
 È fondamentale conservare questi prodotti fuori dalla portata dei bambini, con tappi di sicurezza.
@@ -109,3 +109,8 @@ Se ti stai avvicinando per la prima volta a questo mondo, ti raccomandiamo di in
 | Matita | - | € 0,50 |
 | Avvitatore | opzionale, se si vuole fare fori precisi nel coperchio | € 50,00 |
 | Misurino o contagocce | Per dosare i nutrienti | € 0,50 |
+
+
+## Tiriamo le somme
+Se sommiamo i costi per costruire l'orto in cassetta e l'occorrente per completare i 4 cicli di coltivazione, arriviamo ad una cifra che si avvicina ai 30.00€.
+Questa cifra ti permetterà di coltivare 24 piante di isalata e di avere un piccolo raccolto costante per qualche mese. Non male come inizio 😉!
