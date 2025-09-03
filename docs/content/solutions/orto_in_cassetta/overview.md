@@ -15,7 +15,7 @@ Man mano che la pianta assorbe l'acqua e i nutrienti, il livello della soluzione
 
 
 <figure markdown="span">
-  ![Esempio di orto in cassetta con metodo Kratky](/assets/images/kratky.png)
+  ![Esempio di orto in cassetta con metodo Kratky](/docs/assets/images/kratky.png)
   <figcaption>Sezione dell'orto in cassetta</figcaption>
 </figure>
 

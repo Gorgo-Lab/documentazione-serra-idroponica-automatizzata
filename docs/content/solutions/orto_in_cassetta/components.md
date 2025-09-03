@@ -16,7 +16,7 @@
 ### Contenitore
 
 <figure markdown="span">
-  ![Cassetta](assets/images/cassetta.jpg){ width="250" }
+  ![Cassetta](/docs/assets/images/cassetta.jpg){ width="250" }
   <figcaption>Image caption</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Le viti, o anche dei semplici chiodi, servono per fissare il coperchio al conten
 ### Misuratore PH
 
 <figure markdown="span">
-  ![Misuratore PH](/assets/images/ph.jpg){ width="50" }
+  ![Misuratore PH](/docs/assets/images/ph.jpg){ width="50" }
   <figcaption>Un misuratore di PH economico</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ Per i vasi idroponici suggeriamo di riciclare vasetti di yogurt. È necessario p
 ### Mezzo di coltura
 
 <figure markdown="span">
-  ![Argilla espansa](/assets/images/argilla.jpg){ width="250" }
+  ![Argilla espansa](/docs/assets/images/argilla.jpg){ width="250" }
   <figcaption>Argilla espansa</figcaption>
 </figure>
 
