@@ -20,7 +20,7 @@
   <figcaption>Image caption</figcaption>
 </figure>
 
-Avrai bisogno di un contenitore robusto in polimero plastico per uso alimentare. Questo assicura che il materiale sia sicuro per la coltivazione delle piante e per l'acqua nutritiva. E' impostante che non faccia passare la luce all'interno. La capacità deve essere circa da 12-15 litri.
+Avrai bisogno di un contenitore robusto in polimero plastico per uso alimentare. Questo assicura che il materiale sia sicuro per la coltivazione delle piante e per l'acqua nutritiva. E' importante che non faccia passare la luce all'interno. La capacità deve essere circa da 12-15 litri, e le dimensioni di circa 40 x 30 cm, alto una ventina di centimetri.
 
 ### Coperchio
 
@@ -30,7 +30,7 @@ Avrai bisogno di un contenitore robusto in polimero plastico per uso alimentare.
   <figcaption>Lastre di XPS</figcaption>
 </figure>
 
-Il coperchio è costituito da una lastra di polistirene espanso estruso (XPS) dello spessore di 20 mm. Sebbene il contenitore sia idealmente di qualità alimentare, l'XPS è spesso certificato per l'edilizia, ma è comunque ampiamente utilizzato nelle coltivazioni idroponiche. Questo materiale è facile da tagliare per creare gli alloggiamenti per i vasetti e, sebbene non sia sempre classificato "Food Grade" per questo uso specifico, è una scelta comune e funzionale.
+Il coperchio è costituito da una lastra di polistirene espanso estruso (XPS) dello spessore di 20 mm. Sebbene il contenitore sia idealmente di qualità alimentare, l'XPS è spesso certificato per l'edilizia, ma è comunque ampiamente utilizzato nelle coltivazioni idroponiche. Questo materiale è facile da tagliare per creare gli alloggiamenti per i vasetti e, sebbene non sia sempre classificato "Food Grade" per questo uso specifico, è una scelta comune e funzionale. Dovrà ricoprire interamente la cassetta, quindi per le dimensioni esatte fai riferimento a quest'ultima.
 
 ### Viti
 Le viti, o anche dei semplici chiodi, servono per fissare il coperchio al contenitore in modo che rimanga fermo ma facilmente rimovibile. Questo permette di ispezionare l'interno del sistema in futuro, senza rovinare l'estetica. La lunghezza deve essere sufficiente a calzare nei fori, e il costo può essere nullo se si utilizzano materiali già disponibili.
