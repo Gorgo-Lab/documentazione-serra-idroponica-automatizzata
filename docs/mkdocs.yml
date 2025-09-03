@@ -1,5 +1,5 @@
 site_name: Gorgoglio
-
+site_url: https://gorgoglio.it/docs/
 docs_dir: content
 
 nav:
