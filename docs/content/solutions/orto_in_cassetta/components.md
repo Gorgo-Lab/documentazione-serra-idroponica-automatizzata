@@ -16,7 +16,7 @@
 ### Contenitore
 
 <figure markdown="span">
-  ![Cassetta](/assets/images/cassetta.jpg){ width="250" }
+  ![Cassetta](assets/images/cassetta.jpg){ width="250" }
   <figcaption>Image caption</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Avrai bisogno di un contenitore robusto in polimero plastico per uso alimentare.
 
 
 <figure markdown="span">
-  ![Coperchio XPS](/assets/images/xps.jpg){ width="250" }
+  ![Coperchio XPS](/docs/assets/images/xps.jpg){ width="250" }
   <figcaption>Lastre di XPS</figcaption>
 </figure>
 
