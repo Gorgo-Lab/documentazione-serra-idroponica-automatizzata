@@ -72,8 +72,16 @@ Il mezzo di coltura è il substrato in cui le radici delle piante si sviluppano 
 I nutrienti A+B+C (a volte chiamati "MICRO", "BLOOM" e "GROW") sono miscele di soluzioni essenziali per la coltivazione idroponica, fornendo tutti i macro e micronutrienti di cui le piante hanno bisogno. Sono mantenuti in soluzioni separate per consentire di adattare la composizione nutritiva alle specifiche fasi di crescita della pianta, quali quella vegetativa, di fioritura e di fruttificazione. Ad esempio, una soluzione è ricca di azoto per la crescita fogliare, mentre un'altra apporta più fosforo e potassio per sostenere la fioritura e la fruttificazione. Questa separazione è anche fondamentale per prevenire la precipitazione chimica di alcuni elementi in forma concentrata, mantenendoli disponibili per le radici.
 Le piante non amano i cambiamenti bruschi, quindi qualsiasi correzione al pH (vedi dopo) o alla concentrazione dei nutrienti deve essere fatta per gradi per evitare shock.
 
-La soluzione che ti proponiamo prevede 12 litri di acqua da usare ad ogni ciclo di coltivazione. In questa quantità di acqua andranno disciolte le sostanze nutritive.
 La quantità di nutriente può variare a seconda della marca. Nel caso di "Micro", "Grow" e "Bloom", le quantità sono così distribuite:
+
+| Nutriente | Q.ta per ogni litro |
+|-----------|---------------------|
+| Micro     | 1,2 ml/l            |
+| Grow      | 1,8 ml/l            |
+| Bloom     | 0,6 ml/l            |
+
+La soluzione che ti proponiamo prevede 12 litri di acqua da usare ad ogni ciclo di coltivazione.
+Le quantità totali di ogni nutriente sono quindi le seguenti:
 
 | Nutriente | Q.ta per ogni ciclo | Q.ta totale 4 cicli |
 |-----------|---------------------|---------------------|
@@ -84,9 +92,7 @@ La quantità di nutriente può variare a seconda della marca. Nel caso di "Micro
 
 La quantità necessaria è quindi come vedi molto bassa. Nonostante questo, troverai probabilmente in commercio i nutrienti venduti in bottiglie da 1 litro.
 
-
 È fondamentale conservare questi prodotti fuori dalla portata dei bambini, con tappi di sicurezza.
-
 
 
 
