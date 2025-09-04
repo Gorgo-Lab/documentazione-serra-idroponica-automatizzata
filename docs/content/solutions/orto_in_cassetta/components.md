@@ -77,10 +77,10 @@ La quantità di nutriente può variare a seconda della marca. Nel caso di "Micro
 
 | Nutriente | Q.ta per ogni ciclo | Q.ta totale 4 cicli |
 |-----------|---------------------|---------------------|
-| Micro     | 14,4 ml/l           | 57,6 ml/l           |
-| Grow      | 21,6 ml/l           | 86,4 ml/l           |
-| Bloom     | 7,2 ml/l            | 28,8 ml/l           |
-| **TOTALE**| **43,2 ml/l**       | **172,8 ml/l**      |
+| Micro     | 14,4 ml           | 57,6 ml           |
+| Grow      | 21,6 ml           | 86,4 ml           |
+| Bloom     | 7,2 ml            | 28,8 ml           |
+| **TOTALE**| **43,2 ml**       | **172,8 ml**      |
 
 La quantità necessaria è quindi come vedi molto bassa. Nonostante questo, troverai probabilmente in commercio i nutrienti venduti in bottiglie da 1 litro.
 
