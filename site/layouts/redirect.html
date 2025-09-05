@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="{{ .Params.delay }};url={{ .Params.redirect_url }}">
+    <title>{{ .Params.title }}</title>
+</head>
+<body>
+    <h1>{{ .Params.title }}</h1>
+    <p>{{ .Params.description }}</p>
+    <p>Reindirizzamento a <a href="{{ .Params.redirect_url }}">{{ .Params.redirect_url }}</a></p>
+</body>
+</html>
