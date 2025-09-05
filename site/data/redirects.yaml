@@ -27,7 +27,7 @@ redirects:
     target_url: "https://forms.gle/2BdiAj4P7S8BDMEm9"
     title: "Prossimi Eventi"
     description: "Workshop e incontri"
-    delay: 5
+    delay: 0
     
   - short_path: "gl"
     target_url: "https://www.gorgolab.it"
