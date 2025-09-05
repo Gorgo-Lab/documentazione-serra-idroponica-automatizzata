@@ -1,0 +1,42 @@
+
+# IMPORTANTE: Quando aggiungi un nuovo redirect:
+# 1. Aggiungi entry qui sotto con short_path
+# 2. Crea file content/[short_path].md con STESSO nome
+# 3. Il nome del file DEVE corrispondere esattamente al short_path!
+
+redirects:
+  - short_path: "wa"
+    target_url: "https://chat.whatsapp.com/J22Fk4rN88b6c3SllrBKTZ"
+    title: "Gruppo WhatsApp"
+    description: "Discuti con la community"
+    delay: 0
+    
+  - short_path: "yt"
+    target_url: "https://youtube.com/@hackyourfarm?feature=shared"
+    title: "Canale YouTube"
+    description: "Video tutorial e guide"
+    delay: 0
+    
+  - short_path: "nl"
+    target_url: "https://75fsz4f8.rsrv.host/subscription/form"
+    title: "Newsletter"
+    description: "Novità e aggiornamenti"
+    delay: 0
+    
+  - short_path: "pe"
+    target_url: "https://forms.gle/2BdiAj4P7S8BDMEm9"
+    title: "Prossimi Eventi"
+    description: "Workshop e incontri"
+    delay: 5
+    
+  - short_path: "gl"
+    target_url: "https://www.gorgolab.it"
+    title: "GitHub"
+    description: "Sito del Gorgo Lab"
+    delay: 0
+
+  - short_path: "gh"
+    target_url: "https://github.com/Gorgo-Lab"
+    title: "GitHub Gorgo Lab"
+    description: "Codici e schemi del progetto"
+    delay: 0

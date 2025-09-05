@@ -1,12 +1,36 @@
+{{/* Prende il nome del file corrente (whatsapp) */}}
+{{ $currentPath := .File.BaseFileName }}
+
+{{/* Trova il redirect corrispondente nei dati */}}
+{{ $redirect := index (where site.Data.redirects.redirects "short_path" $currentPath) 0 }}
+
+{{/* Se trova il redirect, esegue il redirect */}}
+{{ if $redirect }}
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="{{ .Params.delay }};url={{ .Params.redirect_url }}">
+    <meta http-equiv="refresh" content="{{ $redirect.delay }};url={{ $redirect.target_url }}">
     <title>{{ .Params.title }}</title>
 </head>
+{{ if gt $redirect.delay 0 }}
 <body>
+
     <h1>{{ .Params.title }}</h1>
     <p>{{ .Params.description }}</p>
-    <p>Reindirizzamento a <a href="{{ .Params.redirect_url }}">{{ .Params.redirect_url }}</a></p>
+    <p>Reindirizzamento a <a href="{{ $redirect.target_url }}">{{ $redirect.target_url }}</a> tra <span id="countdown">{{ $redirect.delay }}</span> secondi...</p>
+    <script>
+        let seconds = {{ $redirect.delay }};
+        const countdown = document.getElementById('countdown');
+        const timer = setInterval(() => {
+            seconds--;
+            countdown.textContent = seconds;
+            if (seconds <= 0) {
+                clearInterval(timer);
+                countdown.textContent = '0';
+            }
+        }, 1000);
+    </script>
 </body>
+{{ end }}
 </html>
+{{ end }}
