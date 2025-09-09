@@ -1,9 +1,9 @@
 {{ partial "header.html" . }}
 <div class="splash container center">
       <div class="hero">
-        <h1 class="title">Progetto Gorgoglìo</h1>
+        <h1 class="title">Benvenuto nell'universo di Gorgoglìo!</h1>
         <h3 class="sub">
-          Idroponica libera, automatizzata ed open source
+          Scopri come realizzare il tuo orto domestico, intelligente, sostenibile e open source
         </h3>
       </div>
 
@@ -14,39 +14,56 @@
 </div>
 
 
+
 <div class="container">
-  <section class="lists feature">
-    <h2>Didattica</h2>
-    <p>
-    Progettato per la didattica e la divulgazione, il progetto accompagna maker, studenti e cittadini nella realizzazione pratica di sistemi di coltivazione fuori suolo.
-    </p>
+
+  {{ partial "cta-box.html" . }}
+
+  <section class="intro-text center" style="margin: 60px 0;">
+    <h2 style="font-size: 2.2em; margin-bottom: 40px;">Gorgoglìo vuol dire &hellip;</h2>
   </section>
 
+  <div class="features-grid" style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 40px; margin: 40px 0;">
+    
+    <div class="feature-card center" style="padding: 30px 20px;">
+      <div class="feature-icon" style="width: 80px; height: 80px; background: #62B946; border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center;">
+        <span class="material-icons" style="font-size: 36px; color: white;">school</span>
+      </div>
+      <h3 style="margin-bottom: 15px;">Didattica</h3>
+      <p>Progettato per la didattica e la divulgazione, il progetto accompagna maker, studenti o semplici curiosi nella realizzazione pratica di sistemi di coltivazione fuori suolo.</p>
+    </div>
 
-  <section class="lists feature">
-    <h2>Praticità e Accessibilità</h2>
-    <p>
-    Utilizziamo materiali comuni e componenti elettronici standard, rendendo la costruzione più accessibile e replicabile in contesti diversi.
-    </p>
-  </section>
+    <div class="feature-card center" style="padding: 30px 20px;">
+      <div class="feature-icon" style="width: 80px; height: 80px; background: #62B946; border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center;">
+        <span class="material-icons" style="font-size: 36px; color: white;">build</span>
+      </div>
+      <h3 style="margin-bottom: 15px;">Praticità e Accessibilità</h3>
+      <p>Utilizziamo materiali comuni e componenti elettronici standard, rendendo la costruzione più accessibile e replicabile in contesti diversi.</p>
+    </div>
 
-  <section class="lists feature">
-    <h2>Automazione</h2>
-    <p>
-    Sistemi di controllo basati su ESP32 per la circolazione dell'acqua e la possibilità di monitorare e intervenire su parametri cruciali come il pH e la conducibilità elettrica della soluzione nutritiva.
-    </p>
-  </section>
+    <div class="feature-card center" style="padding: 30px 20px;">
+      <div class="feature-icon" style="width: 80px; height: 80px; background: #62B946; border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center;">
+        <span class="material-icons" style="font-size: 36px; color: white;">settings</span>
+      </div>
+      <h3 style="margin-bottom: 15px;">Automazione</h3>
+      <p>Sistemi di controllo IoT per la circolazione dell'acqua e la possibilità di monitorare e intervenire su parametri cruciali come il pH e la conducibilità elettrica della soluzione nutritiva.</p>
+    </div>
 
-  <section class="lists feature">
-    <h2>100% Open Source</h2>
-    <p>
-      Struttura, modelli 3D, schematici, codice software: ogni cosa è liberamente accessibile, modificabile e condivisibile online.
-    </p>
-  </section>
+    <div class="feature-card center" style="padding: 30px 20px;">
+      <div class="feature-icon" style="width: 80px; height: 80px; background: #62B946; border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center;">
+        <span class="material-icons" style="font-size: 36px; color: white;">code</span>
+      </div>
+      <h3 style="margin-bottom: 15px;">100% Open Source</h3>
+      <p>Struttura, modelli 3D, schematici, sorgenti software: ogni cosa è liberamente consultabile, modificabile e condivisibile online.</p>
+    </div>
 
-  </section>
+  </div>
 
-  <h2 class="center">e molto altro &hellip;</h2>
+ 
+
+  <h2 class="center">&hellip; e molto altro!</h2>
+
+
 
   {{ partial "contacts.html" . }}
 

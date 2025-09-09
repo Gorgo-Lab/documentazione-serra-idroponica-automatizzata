@@ -1,8 +1,8 @@
 body {
   background: #fdfdfd;
-  font-family: "Inter", "Helvetica Neue", "Segoe UI", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 17px;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 30px;
   color: #444;
   overflow-x: hidden;
@@ -149,6 +149,7 @@ nav {
     max-width: 700px;
     margin: 0 auto 30px auto;
     font-size: 3em;
+    font-weight: 700;
   }
   .splash .sub {
     font-weight: 400;
@@ -297,3 +298,9 @@ nav {
   margin-right: 5px;
 }
 
+@media screen and (max-width: 720px) {
+  .features-grid {
+    grid-template-columns: 1fr !important;
+    grid-template-rows: auto !important;
+  }
+}
