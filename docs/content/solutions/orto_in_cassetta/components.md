@@ -42,7 +42,7 @@ Le viti, o anche dei semplici chiodi, servono per fissare il coperchio al conten
   <figcaption>Un misuratore di PH economico</figcaption>
 </figure>
 
-Un misuratore di pH è uno strumento essenziale per l'idroponica, poiché il pH della soluzione nutritiva influenza direttamente la disponibilità dei nutrienti per le piante. La maggior parte delle piante prospera in un intervallo di pH tra 6 e 7,5. Le strisce tornasole sono economiche ma meno precise, mentre un misuratore di pH digitale può essere acquistato per meno di 10€ per un modello base, offrendo maggiore accuratezza.
+Un misuratore di pH è uno strumento essenziale per l'idroponica, poiché il pH della soluzione nutritiva influenza direttamente la disponibilità dei nutrienti per le piante. La maggior parte delle piante prospera in un intervallo di pH tra 5,5 e 6,3. Le strisce tornasole sono economiche ma meno precise, mentre un misuratore di pH digitale può essere acquistato per meno di 10€ per un modello base, offrendo maggiore accuratezza.
 
 ### Vasi x6
 Per i vasi idroponici suggeriamo di riciclare vasetti di yogurt. È necessario praticare dei fori sul fondo e delle feritoie sui lati. Questi fori e feritoie devono essere di larghezza inferiore rispetto al mezzo di coltura per evitare che quest'ultimo cada fuori.

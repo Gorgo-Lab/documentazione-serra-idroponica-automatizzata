@@ -42,6 +42,8 @@ nav:
     #     - Piante adatte all'idroponica: solutions/nft/cultivation/plants.md
     #     - Parametri ambientali: solutions/nft/cultivation/environment.md
     #     - Risoluzione dei problemi: solutions/nft/cultivation/troubleshooting.md
+  - Articoli:
+    - Misurare il pH: articles/ph.md
   - Contribuisci: contribute.md
   - Licenza: license.md
 
