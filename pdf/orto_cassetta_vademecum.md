@@ -12,8 +12,8 @@
 - 2 viti da legno (lunghezza >2cm)
 
 ## MATERIALI PER 4 CICLI COLTIVAZIONE:
-- Nutrienti A+B+C: Micro (58ml tot), Grow (87ml tot), Bloom (29ml tot)
-- PH Down (correttore acidità)
+- Nutrienti A+B+C: Micro (58 ml tot), Grow (87 ml tot), Bloom (29 ml tot)
+- PH Down (correttore acidità) già diluito
 - Acqua rubinetto (48 litri totali = 12L x 4 cicli)
 - 24 piantine insalata (6 per ciclo)
 
@@ -39,8 +39,8 @@
 ## PREPARAZIONE SOLUZIONE NUTRITIVA (per ciclo):
 1. **Prepara acqua**: Lascia riposare 12L acqua rubinetto per 2-3 ore
 2. **Aggiungi nutrienti**: Micro 14,4ml + Grow 21,6ml + Bloom 7,2ml per 12L
-3. **Controlla PH**: Verifica range 6,0-7,5 con misuratore
-4. **Correggi gradualmente**: Usa PH Down se necessario, diluendo prima a parte
+3. **Controlla PH**: Verifica range 6,0-7,5 con misuratore PH
+4. **Correggi gradualmente**: Usa PH Down diluito se necessario
 
 ## ASSEMBLAGGIO SISTEMA:
 1. **Inserisci piantine**: Posiziona delicatamente nel mezzo di coltura
@@ -53,7 +53,7 @@
 ## ATTENZIONI CRITICHE:
 - Contenitore DEVE essere opaco (no crescita alghe)
 - Fori vasetti < dimensione argilla espansa
-- Diluire SEMPRE PH Down prima dell'uso
+- Diluire SEMPRE correttore di PH prima dell'uso
 - Conservare nutrienti e PH Down lontano da bambini
 - Usare DPI (guanti/occhiali) con correttori PH
 - Se usi saldatore per fori: lavora all'esterno con ventilazione
