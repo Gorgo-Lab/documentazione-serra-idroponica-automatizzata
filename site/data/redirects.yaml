@@ -40,3 +40,9 @@ redirects:
     title: "GitHub Gorgo Lab"
     description: "Codici e schemi open-source del progetto su GitHub"
     delay: 0
+
+  - short_path: "wc"
+    target_url: "https://ortoincassetta.duckdns.org/"
+    title: "Webcam"
+    description: "Webcam su alcuni orti in cassetta"
+    delay: 0
