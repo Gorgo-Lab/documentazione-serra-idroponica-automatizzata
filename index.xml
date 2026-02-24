@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progetto Gorgoglìo - idroponica opensource</title>
+    <link>https://gorgoglio.it/</link>
+    <description>Recent content on Progetto Gorgoglìo - idroponica opensource</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://gorgoglio.it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://gorgoglio.it/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/links/</guid>
+      <description>&lt;h1 id=&#34;i-links-del-progetto&#34;&gt;I Links del Progetto&lt;/h1&gt;&#xA;&lt;p&gt;Ecco tutti i collegamenti rapidi del Progetto Gorgoglio:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitHub</title>
+      <link>https://gorgoglio.it/gh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/gh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gorgo Lab</title>
+      <link>https://gorgoglio.it/gl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/gl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gruppo WhatsApp</title>
+      <link>https://gorgoglio.it/wa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/wa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hack Your Farm - canale YouTube</title>
+      <link>https://gorgoglio.it/yt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/yt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Newsletter</title>
+      <link>https://gorgoglio.it/nl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/nl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prossimo evento - iscrizione</title>
+      <link>https://gorgoglio.it/pe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/pe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webcam</title>
+      <link>https://gorgoglio.it/wc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gorgoglio.it/wc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
