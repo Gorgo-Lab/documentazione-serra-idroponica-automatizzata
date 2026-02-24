@@ -9,6 +9,12 @@ Noi, con l'aiuto della community, progettiamo e sviluppiamo sistemi per la colti
 In queste pagine troverai la documentazione completa ovvero tutte le informazioni e le guide necessarie per apprendere i principi fondamentali della coltivazione idroponica, realizzare concretamente la soluzione più adatta a te e comprenderne nel dettaglio il funzionamento. Grazie ai modelli, agli schemi e al codice forniti, potrai anche adattare il tuo sistema alle tue esigenze specifiche. Speriamo che vorrai presto entrare a far parte del progetto, [contribuendo](contribute) con le tue modifiche e migliorie!
 
 
+
+<figure markdown="span">
+  ![Gorgonzola Partecipa](/docs/assets/images/gorgonzola.jpg)
+</figure>
+
+
 ## ⚠️ Importante - Leggere Prima di Iniziare
 
 I progetti presentati in questo sito sono destinati a **scopi educativi e hobbistici**.  

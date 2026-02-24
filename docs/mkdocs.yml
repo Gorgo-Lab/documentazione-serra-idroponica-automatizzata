@@ -5,11 +5,9 @@ docs_dir: content
 nav:
   - Home: index.md
   - Introduzione:
-    - Cos'è Gorgoglìo: intro/gorgoglio.md
     - Cos'è l'idroponica: intro/hydroponic.md
     - Sicurezza: intro/safety.md
     # - Tipi di sistemi idroponici: intro/systems.md
-    - FAQ sull'idroponica: intro/faq.md
   - Soluzioni:
     - Panoramica delle soluzioni: solutions/overview.md
     - Orto in cassetta:
