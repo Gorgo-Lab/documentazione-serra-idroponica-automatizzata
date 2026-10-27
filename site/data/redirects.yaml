@@ -41,8 +41,8 @@ redirects:
     description: "Codici e schemi open-source del progetto su GitHub"
     delay: 0
 
-  - short_path: "wc"
-    target_url: "https://ortoincassetta.duckdns.org/"
-    title: "Webcam"
-    description: "Webcam su alcuni orti in cassetta"
+  - short_path: "ma"
+    target_url: "https://docs.google.com/document/d/1shDiVrDs8JNZ0iTNptJnIJKI9dSY9NZsz-tMG9U1iJI/preview"
+    title: "Materiali"
+    description: "Elenco dei materiali per costruire l'Orto in Cassetta"
     delay: 0
