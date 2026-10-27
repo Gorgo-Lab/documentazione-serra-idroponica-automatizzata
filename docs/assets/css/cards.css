@@ -1,0 +1,39 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; /* Distribuisce le card uniformemente */
+}
+
+.card {
+  width: 45%; /* Circa il 45% per avere un po' di spazio tra le card */
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #4CAF50; /* Usa il tuo colore primario */
+}
+
+.card p {
+  margin-bottom: 10px;
+}
+
+.card a.button {
+  display: inline-block;
+  padding: 8px 12px;
+  background-color: #f3bf21; /* Usa il tuo colore secondario */
+  color: white;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+/* Stili per schermi più piccoli (reattività) */
+@media screen and (max-width: 600px) {
+  .card {
+    width: 100%; /* Su schermi piccoli, le card prendono tutta la larghezza */
+  }
+}
