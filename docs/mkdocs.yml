@@ -7,39 +7,11 @@ nav:
   - Introduzione:
     - Cos'è l'idroponica: intro/hydroponic.md
     - Sicurezza: intro/safety.md
-    # - Tipi di sistemi idroponici: intro/systems.md
-  - Soluzioni:
-    - Panoramica delle soluzioni: solutions/overview.md
-    - Orto in cassetta:
-      - Panoramica: solutions/orto_in_cassetta/overview.md
-      - Componenti: solutions/orto_in_cassetta/components.md
-      - Costruzione: solutions/orto_in_cassetta/build.md
-      - Coltivazione: solutions/orto_in_cassetta/cultivation.md
-    # - Smart Kratky:
-    #   - Panoramica: solutions/smartkratky/overview.md
-    # - NFT:
-    #   - Panoramica: solutions/nft/overview.md
-    #   - Costruzione:
-    #     - Meccanica:
-    #       - Componenti: solutions/nft/mechanical/components.md
-    #       - Struttura della serra: solutions/nft/mechanical/structure.md
-    #     - Impianto idraulico:
-    #       - Componenti impianto idraulico: solutions/nft/plumbing/components.md
-    #       - Schema impianto idraulico: solutions/nft/plumbing/layout.md
-    #       - Assemblaggio impianto idraulico: solutions/nft/plumbing/assembly.md
-    #     - Impianto elettrico:
-    #       - Componenti impianto elettrico: solutions/nft/electrical/components.md
-    #       - Schema elettrico: solutions/nft/electrical/wiring.md
-    #       - Cablaggio impianto elettrico: solutions/nft/electrical/assembly.md
-    #     - Software:
-    #       - Panoramica del software: solutions/nft/overview.md
-    #       - Installazione e configurazione: solutions/nft/setup.md
-    #       - Utilizzo del software: solutions/nft/usage.md
-    #   - Coltivazione:
-    #     - Nutrienti e soluzioni: solutions/nft/cultivation/nutrients.md
-    #     - Piante adatte all'idroponica: solutions/nft/cultivation/plants.md
-    #     - Parametri ambientali: solutions/nft/cultivation/environment.md
-    #     - Risoluzione dei problemi: solutions/nft/cultivation/troubleshooting.md
+  - Orto in cassetta:
+    - Panoramica: orto_in_cassetta/overview.md
+    - Componenti: orto_in_cassetta/components.md
+    - Costruzione: orto_in_cassetta/build.md
+    - Coltivazione: orto_in_cassetta/cultivation.md
   - Articoli:
     - Misurare il pH: articles/ph.md
   - Contribuisci: contribute.md
@@ -69,6 +41,16 @@ theme:
 
 extra_css:
   - assets/css/cards.css
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        solutions/overview.md: orto_in_cassetta/overview.md
+        solutions/orto_in_cassetta/overview.md: orto_in_cassetta/overview.md
+        solutions/orto_in_cassetta/components.md: orto_in_cassetta/components.md
+        solutions/orto_in_cassetta/build.md: orto_in_cassetta/build.md
+        solutions/orto_in_cassetta/cultivation.md: orto_in_cassetta/cultivation.md
 
 markdown_extensions:
   - attr_list

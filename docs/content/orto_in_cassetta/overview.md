@@ -1,7 +1,16 @@
-# Soluzione orto in cassetta: guida completa
+# Orto in cassetta: guida completa
 
-In questa guida esploreremo la nostra soluzione "orto in cassetta" pensata per essere la via più semplice e alla portata di tutti per iniziare a coltivare "fuori suolo" direttamente a casa tua, sul balcone o in piccoli spazi.
+In questa guida esploreremo il nostro "orto in cassetta", pensato per essere la via più semplice e alla portata di tutti per iniziare a coltivare "fuori suolo" direttamente a casa tua, sul balcone o in piccoli spazi.
 Per chi già conosce qualche rudimento della coltivazione idroponica avrà sentito parlare del "metodo Kratky". La nostra proposta è basata su questo metodo di coltivazione ma si arricchisce di ulteriori consigli, trucchetti e soluzioni per permetterti di iniziare davvero da zero, anche se non hai nessuna esperienza in questo campo.
+
+<figure markdown="span">
+  ![foto cassetta](/docs/assets/images/foto-cassetta.jpg){ width="500" }
+  <figcaption>un orto in cassetta Gorgoglìo</figcaption>
+</figure>
+
+**Cosa puoi coltivare:** è ideale per ortaggi a foglia come lattughe (a testa o ceppo), basilico e biete. La loro gestione dei nutrienti è semplificata, non richiedendo modifiche significative della soluzione durante il ciclo di crescita (che dura circa 30-35 giorni).
+
+**Fa al caso tuo?** Questo sistema offre un modo immediato ed economico per vedere risultati. La sua semplicità lo rende perfetto per principianti e famiglie, anche per avvicinare i bambini alle colture fuori suolo.
 
 ## Perché il Metodo Kratky?
 
@@ -22,7 +31,7 @@ Man mano che la pianta assorbe l'acqua e i nutrienti, il livello della soluzione
 ## Cosa Serve per Realizzare il Tuo Orto in Cassetta
 
 Per iniziare con l'orto in cassetta ti serviranno alcuni materiali di base: un contenitore opaco per ospitare la soluzione nutritiva, un coperchio leggero e facile da lavorare, piccoli vasi forati per le piante, un mezzo di coltura come argilla espansa o spugna, una soluzione di nutrienti idroponici, acqua e le piantine che preferisci coltivare. Abbiamo già selezionato per te tutti questi elementi in modo che siano economici, funzionali e che reperibili in casa o in negozi alla portata di tutti.
-Trovi la lista dettagliata dei materiali necessari nella [pagina dedicata ai componenti.](/solutions/orto_in_cassetta/components/)
+Trovi la lista dettagliata dei materiali necessari nella [pagina dedicata ai componenti.](components.md)
 
 ## I Vantaggi del Tuo Orto in Cassetta
 
