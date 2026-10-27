@@ -119,4 +119,4 @@ Se ti stai avvicinando per la prima volta a questo mondo, ti raccomandiamo di in
 
 ## Tiriamo le somme
 Se sommiamo i costi per costruire l'orto in cassetta e l'occorrente per completare i 4 cicli di coltivazione, arriviamo ad una cifra che si avvicina ai 30.00€.
-Questa cifra ti permetterà di coltivare 24 piante di isalata e di avere un piccolo raccolto costante per qualche mese. Non male come inizio 😉!
+Questa cifra ti permetterà di coltivare 24 piante di insalata e di avere un piccolo raccolto costante per qualche mese. Non male come inizio 😉!
